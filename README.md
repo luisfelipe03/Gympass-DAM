@@ -1,4 +1,4 @@
-# GymPass Clone
+# Gympass
 
 Projeto avaliativo da disciplina **Desenvolvimento de Aplicações Móveis (DAM)**, focado em um aplicativo para gerenciamento de check-ins em academias próximas.
 
