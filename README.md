@@ -39,8 +39,7 @@ Este aplicativo permite que usuários se cadastrem, localizem academias próxima
 - Paginação de 20 itens por página para históricos e listagens.
 
 ## 🚀 Mockups
-*Em desenvolvimento.*  
-Os mockups serão adicionados assim que forem criados.
+[Figma](https://www.figma.com/proto/OcfNjTHRbCeXtv5XIlDoxJ/Gympass?node-id=2-6&t=pjBv3FQcxkQEiCNy-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 ## 📧 Discente
 Luis Felipe de Oliveira Andrade  
