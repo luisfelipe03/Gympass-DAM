@@ -2,13 +2,12 @@
 
 Projeto avaliativo da disciplina **Desenvolvimento de Aplicações Móveis (DAM)**, focado em um aplicativo para gerenciamento de check-ins em academias próximas.
 
-## 📋 Descrição
+## 👋 Descrição
 Este aplicativo permite que usuários se cadastrem, localizem academias próximas, realizem check-ins e acompanhem seu histórico de atividades. Administradores podem gerenciar academias e validar check-ins.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Backend**: Node.js
-- **Frontend**: Flutter
-- **Banco de Dados**: PostgreSQL
+- **Framework**: Flutter
+- **Banco de Dados**: SQLite
 
 ## 🎯 Funcionalidades
 1. **Usuários**
@@ -19,7 +18,6 @@ Este aplicativo permite que usuários se cadastrem, localizem academias próxima
 2. **Check-ins**
    - Busca de academias próximas ou pelo nome.
    - Realização de check-ins com validação de proximidade e tempo.
-   - Validação de check-ins pelos administradores.
 
 3. **Administração**
    - Cadastro de academias no sistema.
@@ -34,8 +32,8 @@ Este aplicativo permite que usuários se cadastrem, localizem academias próxima
 
 ## 🛠 Requisitos Não Funcionais
 - Senhas armazenadas de forma criptografada.
-- Autenticação utilizando JWT.
-- Dados persistidos com PostgreSQL.
+- Autenticação utilizando armazenamento local seguro.
+- Dados persistidos com SQLite.
 - Paginação de 20 itens por página para históricos e listagens.
 
 ## 🚀 Mockups
@@ -44,3 +42,4 @@ Este aplicativo permite que usuários se cadastrem, localizem academias próxima
 ## 📧 Discente
 Luis Felipe de Oliveira Andrade  
 [luis.felipea@ufape.edu.br](mailto:luis.felipea@ufape.edu.br)
+
