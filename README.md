@@ -1,7 +1,3 @@
-Aqui está o README atualizado com **PostgreSQL** como banco de dados:  
-
----
-
 ![](https://custom-icon-badges.demolab.com/badge/STATUS-EM%20DESENVOLVIMENTO-8957E5.svg?logo=tools&logoColor=white)
 
 # Gympass - Gerenciamento de Check-ins em Academias  
