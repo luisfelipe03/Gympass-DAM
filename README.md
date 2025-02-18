@@ -92,7 +92,7 @@ Acesse os protótipos no **Figma**: [Gympass - Mockups](https://www.figma.com/pr
 
 ```bash
 # Clone o repositório
-$ git clone <https://github.com/seu-usuario/gympass.git>
+$ git clone https://github.com/luisfelipe03/Gympass-DAM.git
 
 # Acesse a pasta do projeto
 $ cd gympass
@@ -101,7 +101,7 @@ $ cd gympass
 $ flutter pub get
 
 # Configuração do banco de dados PostgreSQL
-$ psql -U seu_usuario -d seu_banco -f database/schema.sql
+$ psql -U postgres -d gympass -f database/schema.sql
 
 # Execute a aplicação
 $ flutter run
