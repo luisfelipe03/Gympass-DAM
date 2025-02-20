@@ -74,7 +74,7 @@ Tecnologias adicionais:
 
 O desenvolvimento será acompanhado pelo **GitHub Projects**, utilizando um quadro Kanban para organizar as tarefas e acompanhar o progresso.  
 
-🔗 [Acesse o quadro Kanban do projeto no GitHub](#) *(Substituir pelo link real do GitHub Projects)*  
+🔗 [Acesse o quadro Kanban do projeto no GitHub](https://github.com/users/luisfelipe03/projects/2) 
 
 ---
 
